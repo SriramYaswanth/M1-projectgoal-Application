@@ -1,6 +1,8 @@
 # M1-projectgoal-Application
 application
 
+The main purpose of this document is to describe the use of Online application fom how the candidate can eaily fill the fom or create account from online .These is mainly/ primerly to reduce the work that which we required application from bulk of applications.
+
 CODEGA:
 
 CODIGA DASHBOARD: https://app.codiga.io/public/project/31291/M1-projectgoal-Application/dashboard
