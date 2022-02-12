@@ -20,14 +20,16 @@ user can fill the details like candidate name,fathers name, Mother name, highest
 4. Information collected may include: availability for work, proof of legal employment status, salary requirements, and past job history of the candidate.
  
  
-   LOW LEVEL REQUIREMENTS:
+     LOW LEVEL REQUIREMENTS:
  
  1. Internet connection 
  2. make shure the information is correct 
  3. get details of the candidate to perfom several funtions 
 
 
-    SWOT ANALYSIS:
+   
+     SWOT ANALYSIS:
+    
     
 Strength
  
