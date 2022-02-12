@@ -22,7 +22,7 @@ user can fill the details like candidate name,fathers name, Mother name, highest
  
 
 
-    LOW LEVEL REQUIREMENTS:
+LOW LEVEL REQUIREMENTS:
  
  1. Internet connection 
  2. make shure the information is correct 
