@@ -1,7 +1,7 @@
                         APPLICATION FOM 
    DESCRIPTION:
 
-An application form is a formal written request for something such as a job or membership of an organization The application form plays an important part in the selection process, decisions to shortlist candidates for interview are based solely upon the information you supply on your form and the form provides a basis for the interview itself. Curriculum Vitaes (CVs) or resumes alone will not be accepted. . That now a days we are using to apply any job, Exanination, apply univercities, or to join any work we need fill the application fom manditaroy that the candidate can give all the information of the person, that we can stire easily and can use easily.
+An application form is a formal written request for something such as a job or membership of an organization The application form plays an important part in the selection process, decisions to shortlist candidates for interview are based solely upon the information you supply on your form and the form provides a basis for the interview itself. Curriculum Vitaes or resumes alone will not be accepted. . That now a days we are using to apply any job, Exanination, apply univercities, or to join any work we need fill the application fom manditaroy that the candidate can give all the information of the person, that we can stire easily and can use easily.
 
    High level Requirement:
 
