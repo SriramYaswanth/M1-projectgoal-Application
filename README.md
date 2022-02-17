@@ -2,6 +2,11 @@
 application
 
 
+![CODE QUALITY ](https://api.codiga.io/project/31291/score/svg)
+
+![CODE QUALITY]( https://api.codiga.io/project/31291/status/svg)
+
+
 
   ONLINE APPLICATION FOM
   
