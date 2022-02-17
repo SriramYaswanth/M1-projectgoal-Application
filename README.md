@@ -10,13 +10,26 @@ application
 
   ONLINE APPLICATION FOM
   
+   | FOLDER             | DESCRIPTION|
+   |--------------------|------------|
+   |0_Certificates      | Hackerearth , Sololearn,  NDG Linux |
+   |1_Requirements     | High level requirements, Low level, SWOT analysis|
+   |2_Design/Architecture| flow char |
+   |3_Implementation| source code (CODE)|
+   |4_Test plan and Output|Process and code Output|
+   |5_Report|Document of whole project|
+   |6_Images and Videos| Code execution images|
+   |7_Refferences| All referance links which are used to do this project|
+   
+   
+  
 The main purpose of this document is to describe the use of Online application fom how the candidate can eaily fill the fom or create account from online .These is mainly/ primerly to reduce the work that which we required application from bulk of applications.
 
 CODEGA:
 
 CODIGA DASHBOARD: https://app.codiga.io/public/project/31291/M1-projectgoal-Application/dashboard
 
-Refferences:
+
 
 
     NOTE:
