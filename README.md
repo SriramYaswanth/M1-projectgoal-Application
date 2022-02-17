@@ -18,7 +18,7 @@ CODIGA CODE QUALIRT SCORE: https://api.codiga.io/project/31291/score/svg
 CODIGA CODE GRADE: https://api.codiga.io/project/31291/status/svg
 
 
-CODE QUALITY (https://app.codacy.com/gh/SriramYaswanth/M1-projectgoal-Application/dashboard0
+CODE QUALITY ( https://app.codacy.com/gh/SriramYaswanth/M1-projectgoal-Application/dashboard )
 
 
 Refferences:
