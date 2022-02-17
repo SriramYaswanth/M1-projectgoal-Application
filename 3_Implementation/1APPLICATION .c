@@ -16,7 +16,7 @@ struct pass
     char highest[10];
     char percentage[4];
     char cgpa[4];
-    char per[4]
+    char per[4];
 };
 struct employee
 {
