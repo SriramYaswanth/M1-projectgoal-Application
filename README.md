@@ -6,7 +6,7 @@ application
 
 ![CODE QUALITY]( https://api.codiga.io/project/31291/status/svg)
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0857cd72023c4a9893a6220ad29fdb34)](https://www.codacy.com/gh/SriramYaswanth/M1-projectgoal-Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SriramYaswanth/M1-projectgoal-Application&amp;utm_campaign=Badge_Grade)
 
   ONLINE APPLICATION FOM
   
@@ -15,16 +15,6 @@ The main purpose of this document is to describe the use of Online application f
 CODEGA:
 
 CODIGA DASHBOARD: https://app.codiga.io/public/project/31291/M1-projectgoal-Application/dashboard
-
-
-CODIGA CODE QUALIRT SCORE: https://api.codiga.io/project/31291/score/svg
-
-
-CODIGA CODE GRADE: https://api.codiga.io/project/31291/status/svg
-
-
-CODE QUALITY ( https://app.codacy.com/gh/SriramYaswanth/M1-projectgoal-Application/dashboard )
-
 
 Refferences:
 
