@@ -36,10 +36,10 @@
     
 Strength
  
-1. Save time and effect
-2. Easy to access
-3. Avilability to all
-4. More convinent to applicant to complets
+1. Save lot of time and effec.
+2. Enables 24*7 service.
+3. Update features keep business deals, changes, and offers in the loop within customers.
+4. Low cost and easy to Handle.
 
 
 Weakness:
