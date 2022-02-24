@@ -6,7 +6,7 @@ application
 
 ![CODE QUALITY]( https://api.codiga.io/project/31291/status/svg)
 
-
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0857cd72023c4a9893a6220ad29fdb34)](https://www.codacy.com/gh/SriramYaswanth/M1-projectgoal-Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SriramYaswanth/M1-projectgoal-Application&amp;utm_campaign=Badge_Grade)
 
 [![cppcheck-action](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml)
 
@@ -22,7 +22,7 @@ application
    |--------------------|------------|
    |0_Certificates      | Hackerearth , Sololearn,  NDG Linux |
    |1_Requirements     | HLR,LLR SWOT analysis,4W'S&h|
-   |2_Design/Architecture| flow char,  |
+   |2_Design/Architecture| Behavioural diagram , Flow chart  |
    |3_Implementation| Code and Documentation|
    |4_Test plan and Output|Process and code Output|
    |5_Report|Document of whole project|
