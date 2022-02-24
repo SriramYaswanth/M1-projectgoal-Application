@@ -8,6 +8,8 @@ application
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/0857cd72023c4a9893a6220ad29fdb34)](https://www.codacy.com/gh/SriramYaswanth/M1-projectgoal-Application/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SriramYaswanth/M1-projectgoal-Application&amp;utm_campaign=Badge_Grade)
 
+[![cppcheck-action](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml)
+
 
   ONLINE APPLICATION FOM
   
