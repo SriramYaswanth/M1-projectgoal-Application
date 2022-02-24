@@ -23,7 +23,6 @@
 #include"stdlib.h"
 #include"string.h"
 #include"conio.h"
-#include"windows.h"
 
 struct date{
        int month;
