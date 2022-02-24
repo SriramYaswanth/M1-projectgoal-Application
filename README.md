@@ -10,6 +10,8 @@ application
 
 [![cppcheck-action](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml)
 
+[![Git Inspector](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/git_inspector.yml)
+
 
   ONLINE APPLICATION FOM
   
