@@ -26,4 +26,4 @@ jobs:
     - name: Install gcov 
       run: sudo apt -y install gcovr
     - name: make 
-      run: make coverage -C application /3_Implementation
+      run: make coverage -C BillingSystem /3_Implementation
