@@ -10,11 +10,15 @@ application
 
 [![cppcheck-action](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml)
 
+[![Static_check](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/Static_check.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/Static_check.yml)
+
 [![Git Inspector](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/git_inspector.yml)
 
 <a href="https://app.codiga.io/public/user/github/SriramYaswanth">
    <img src="https://api.codiga.io/public/badge/user/github/SriramYaswanth?style=light" alt="codiga badge" />
 </a>
+
+
 
 # Table structure
   
