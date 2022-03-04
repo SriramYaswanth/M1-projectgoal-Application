@@ -1,7 +1,6 @@
 # M1-projectgoal-Application
 application
 
-
 ![CODE QUALITY ](https://api.codiga.io/project/31291/score/svg)
 
 ![CODE QUALITY]( https://api.codiga.io/project/31291/status/svg)
@@ -11,6 +10,8 @@ application
 [![cppcheck-action](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/cppcheck.yml)
 
 [![Static_check](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/Static_check.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/Static_check.yml)
+
+[![static-Analysisl](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/static-Analysis.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/static-Analysis.yml)
 
 [![Git Inspector](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/SriramYaswanth/M1-projectgoal-Application/actions/workflows/git_inspector.yml)
 
